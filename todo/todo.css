@@ -1,0 +1,29 @@
+body {
+   
+    font-family: "Allerta Stencil", Sans-serif;
+    text-align: center;
+}
+
+label1 {
+    font-size: 30px;
+}
+
+.new-todo {
+
+    font-size: larger;
+    text-align: center;
+    box-shadow: 1px 1px 5px 0px;
+
+}
+
+li{
+	list-style: none;
+}
+
+.clear-completed {
+
+    font-size: larger;
+
+}
+
+
